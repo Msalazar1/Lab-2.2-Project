@@ -1,0 +1,13 @@
+C:\Users\msalazar\source\repos\TableofPowers\bin\Debug\netcoreapp3.1\TableofPowers.exe
+C:\Users\msalazar\source\repos\TableofPowers\bin\Debug\netcoreapp3.1\TableofPowers.deps.json
+C:\Users\msalazar\source\repos\TableofPowers\bin\Debug\netcoreapp3.1\TableofPowers.runtimeconfig.json
+C:\Users\msalazar\source\repos\TableofPowers\bin\Debug\netcoreapp3.1\TableofPowers.runtimeconfig.dev.json
+C:\Users\msalazar\source\repos\TableofPowers\bin\Debug\netcoreapp3.1\TableofPowers.dll
+C:\Users\msalazar\source\repos\TableofPowers\bin\Debug\netcoreapp3.1\TableofPowers.pdb
+C:\Users\msalazar\source\repos\TableofPowers\obj\Debug\netcoreapp3.1\TableofPowers.csprojAssemblyReference.cache
+C:\Users\msalazar\source\repos\TableofPowers\obj\Debug\netcoreapp3.1\TableofPowers.AssemblyInfoInputs.cache
+C:\Users\msalazar\source\repos\TableofPowers\obj\Debug\netcoreapp3.1\TableofPowers.AssemblyInfo.cs
+C:\Users\msalazar\source\repos\TableofPowers\obj\Debug\netcoreapp3.1\TableofPowers.csproj.CoreCompileInputs.cache
+C:\Users\msalazar\source\repos\TableofPowers\obj\Debug\netcoreapp3.1\TableofPowers.dll
+C:\Users\msalazar\source\repos\TableofPowers\obj\Debug\netcoreapp3.1\TableofPowers.pdb
+C:\Users\msalazar\source\repos\TableofPowers\obj\Debug\netcoreapp3.1\TableofPowers.genruntimeconfig.cache
